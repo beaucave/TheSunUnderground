@@ -1,4 +1,4 @@
-# TheSunUnderground
+# The Sun Underground
 A small-scale TTRPG about being cursed, written by one person.
 
 ### Important dates
