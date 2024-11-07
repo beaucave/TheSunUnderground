@@ -22,8 +22,8 @@ title: The Sun Underground
 description: >- # this means to ignore newlines until "baseurl:"
   A small-scale, narrative-driven TTRPG about being cursed. Written by one person.
 
-baseurl: "/TheSunUnderground" # the subpath of your site, e.g. /blog
-url: "https://beaucave.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://thesununderground.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
