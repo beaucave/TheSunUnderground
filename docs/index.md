@@ -26,7 +26,7 @@ You play as an Inhabitant — a human who has been irrevocably changed by exposu
 
 
 ## Character Creation
-> [View Identities & Character Sheet](./identity.md) 
+> [View Identities & Character Sheet](./identities/) 
 
 When creating an Inhabitant, the first thing to select is their Identity. Your identity informs your character’s mindset, and indicates what uses of magic come most naturally to them. Aligned with this, each identity has a primary and secondary color that mirrors their inclinations.
 
@@ -35,7 +35,7 @@ After selecting an identity, you'll select keywords to describe your magic and y
 The last section of the character sheet contains the abilities list and the scars list. Abilities are covered in their own section, while scars are covered in the “Wounds” section. 
 
 ### *Abilities*
-> [View Abilities List](./ability.md)
+> [View Abilities List](./abilities/)
 
 Each character has five abilities total. These abilities guide how you perform magic and interact with your surrounding world. 
 
