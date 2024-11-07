@@ -19,6 +19,7 @@ A small-scale, narrative-driven TTRPG about being cursed. Written by one person.
 ## About The Game
 The Sun Underground is a game about reality-warping magic and fighting monsters. It is also a game about what happens after your entire world falls apart. 
 
+
 You play as an Inhabitant — a human who has been irrevocably changed by exposure to magic. This is not a good thing, but it can be made into one. 
 
 
