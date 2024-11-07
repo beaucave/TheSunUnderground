@@ -1,19 +1,31 @@
-# The Sun Underground
 A small-scale, narrative-driven TTRPG about being cursed. Written by one person.
-
+---
 ## Quick Navigation:
-1. [Character Creation](#character-creation)
+1. [About the Game](#about-the-game)
+2. [Character Creation](#character-creation)
     - [Abilties](#abilities)
-2. [Gameplay](#gameplay)
+3. [Gameplay](#gameplay)
     - [Dice Rolls](#dice-rolls)
     - [Modifiers](#modifiers)
     - [Wounds](#wounds)
     - [Scars](#scars)
 
 
+## About The Game
+The Sun Underground is a game about reality-warping magic and fighting monsters. It is also a game about what happens after your entire world falls apart. 
+
+The world and rules of this game began, loosely, as a story I started in middle school. In the years since seventh grade, that story has evolved to the point of being unrecognizable from its first iteration. Some things have stayed the same, though: magic is always a ruinous thing, and there are always people who choose to delight in it anyways. 
+
+As I write this, it is November 6, 2024; the day after the United States' 2024 presidential election. I started translating the story to a game the day after my one-year-long relationship ended. 
+I think that means something. I'm not sure what.
+
+
+The world of that story
+
 You play as an Inhabitant — a human who has been irrevocably changed by exposure to magic. This is not a good thing, but it can be made into one. 
 
----
+
+
 
 ## Character Creation
 > [View Identities](./identity.md)
