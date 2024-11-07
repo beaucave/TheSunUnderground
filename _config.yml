@@ -26,9 +26,9 @@ author: Beauregard Cave
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://thesununderground.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
 theme: minima
-skin: dark
+
+# Build settings
 plugins:
   - jekyll-feed
 
@@ -39,7 +39,6 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
 exclude:
   - .sass-cache/
   - .jekyll-cache/
