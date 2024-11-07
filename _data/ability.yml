@@ -1,0 +1,129 @@
+---
+-
+  name: Gut Feeling
+  desc: You have good instincts. When you encounter a new character or location, make a Blue check to notice hidden details.
+  color: all
+-
+  name: Logic in a Dream
+  desc: If you use logic from the mundane world to solve a magical problem, you have an additional modifier of 2.
+  color: all
+-
+  name: Unarmed
+  desc: When you attack without using magic, you have an additional modifier of 3.
+  color: all
+-
+  name: Give Everything
+  desc: You use the total sum of your modifier pool as a modifier instead of selecting one. This sum must include every modifier in the pool.
+  color: all
+-
+  name: The Indomitable Human Spirit is Hanging on by a Thread
+  desc: When you max out your Chrysalis ring, you can choose (within that session) when to hatch. If you do not declare a time within the session, you start the next session by hatching.
+  color: all
+-
+  name: First-Aid
+  desc: You can attempt to heal Demanding wounds. Make a Red roll. The target value is 11 minus your red score.
+  color: all
+-
+  name: Exoskeleton
+  desc: When any of your damage rings are full, you can choose one truth of your character to eclipse the rest. You are no longer yourself. For the rest of the session, act as that animate truth. When the session ends, reset all wound rings and record a new scar.
+  color: ascendant
+-
+  name: Lair
+  desc: You settle in a location. Reduce your highest color by 1. Any creature that enters that location must roll with that color, and will take a Chrysalis wound if they fail. When you successfully mark an entity, take an additional modifier of 1 in your highest color.
+  color: ascendant
+-
+  name: Discovery
+  desc: Reveal the truth of yourself to an audience. Make a roll of your highest color. All members of your audience will be under your thrall for the next scene.
+  color: ascendant
+-
+  name: Alight
+  desc: You can choose what modifier you roll with, regardless of roll type.
+  color: ascendant
+-
+  name: Rebirth
+  desc: Once per game, you can declare that a scene is your final scene. Add your highest modifier and total wounds taken to all rolls made in the scene. When the scene ends, your character is gone, and a new domain exists in your place.
+  color: ascendant
+-
+  name: Wish
+  desc: Once per game, you can make something impossible happen. Make a Gold roll. If you ace or make it, all witnesses and/or recipients take a Chrysalis wound. If you fail it, you are gone.
+  color: ascendant
+-
+  name: Generator
+  desc: If you use magic to energize something or someone (turn on an electrical feature, avoid sleep, start a process), you have a reduced difficulty level.
+  color: red
+-
+  name: Revel
+  desc: Add the total number of mundane and demanding wounds you've taken to all rolls as an additional modifier. If you fail a roll, take +1 Chrysalis damage as an additional consequence.
+  color: red
+-
+  name: Morph
+  desc: Change one aspect of your body as you wish. Make a Gold roll. If you make it, take +1 mundane wound. If you fail it, take an additional +1 mundane wound (+2 in total).
+  color: red
+-
+  name: Extended Reach
+  desc: "Your magic can create changes, and sometimes it can undo them. Make a Red roll with a target of 11. If you succeed, you can remove a wound? Note: If you also have the Morph ability, your difficulty is 9."
+  color: red
+-
+  name: Brutalize
+  desc: Make a Red roll. If you succeed, you turn a combatant's mundane wound into a demanding wound. Reduce their mundane wounds by 1 (-1) and increase their demanding wounds by 1 (+1). If you critically succeed, inflict both a Chrysalis wound and a demanding wound.
+  color: red
+-
+  name: Discernment
+  desc: You and the world are not separate things. You can take advantage of that. When trying to gain information, you can make a Blue roll to realize a secret that will help. If you don't fail it, you'll learn something useful. It may be cryptic.
+  color: blue
+-
+  name: Answer
+  desc: When you take damage from an external attacker, roll to Strike. Inflict +1 of the same wound (mundane, demanding, or chrysalis) on your attacker.
+  color: blue
+-
+  name: Charm
+  desc: You're persuasive. When rolling to convince someone of something they wouldn't otherwise do or believe, you have a reduced difficulty level.
+  color: blue
+-
+  name: Faraway Echo
+  desc: You can amplify sound with your magic. You can make a Gold roll to use this sound against another entity or group of entities. If you succeed, you can modify the impact that this sound has on the target (not the sound itself).
+  color: blue
+-
+  name: Shared Burden
+  desc: You can attempt to reduce and share an ally's wounds. Make a Blue roll. Your target is set by your ally making a Gold roll. If you succeed, you each take 1 Mundane wound and they remove 1 Demanding wound. If you critically succeed, only remove 1 Demanding wound.
+  color: blue
+-
+  name: Remember
+  desc: Sometimes you remember what it was like to be human. If you make a roll that does not involve magic (or actively avoids or ignores it), you can use your Gold score as an additional modifier.
+  color: gold
+-
+  name: Dissolve
+  desc: You can absorb sentiment to fuel your magic. If you choose to destroy something valuable, gain an additional +2 modifier on your next Gold roll. The object is irreparably and permanently destroyed.
+  color: gold
+-
+  name: Pulse
+  desc: You know when sources of magic are nearby you. You can make a Gold roll to attempt to discern the path to that source. The difficulty will depend on your familiarity with it.
+  color: gold
+-
+  name: Seal The Edge
+  desc: Make a Gold roll to heal yourself or another character. If you succeed, undo 1 demanding wound.
+  color: gold
+-
+  name: Touch Without Touch
+  desc: When you make a Gold roll to magically affect an object's relationship to physics, you have a reduced difficulty level.
+  color: gold
+-
+  name: Sanctuary
+  desc: You can secure a small room or area of your choosing. Make a Green roll and take note of the result. Any unwelcome visitors must make a Gold roll with that result as their target. If they do not succeed, they will be repelled from the space.
+  color: green
+-
+  name: Remain
+  desc: Once per game, you can leave part of yourself behind in a location of your choice. You can then magically perceive that location with a Green roll.
+  color: green
+-
+  name: Not Where You Are
+  desc: You can momentarily be somewhere else. This lasts for under a minute and performing it repeatedly in quick succession will wound you. You can attempt to bring someone with you by making a Green roll.
+  color: green
+-
+  name: Stay Upright
+  desc: When you receive a wound, make a Green roll. If you succeed, disregard that wound and do not mark it. If you partially succeed, the wound is downgraded to mundane (regardless of its original severity).
+  color: green
+-
+  name: Overgrown Ivy
+  desc: When you attempt to cast magic, your Green score is an additional modifier in your pool.
+  color: green

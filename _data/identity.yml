@@ -1,0 +1,61 @@
+---
+-
+    name: Frenzy
+    desc: You obey your instincts, even to your detriment. Change and violence are very familiar to you. You tend to hit first and speak second.
+    primary: red
+    secondary: gold
+-
+    name: Hunt
+    desc: Watch and wait and strike. You are a persistence predator, and anything you set your sights on will be your prey.
+    primary: red
+    secondary: green
+-
+    name: Command
+    desc: You know how to demand attention. You're quick to act and quick to judge. You usually handle stress well. 
+    primary: red
+    secondary: blue
+-
+    name: Inferno
+    desc: You are a powder keg. Your magic delights in impulse, in big displays and snap decisions. So do you. 
+    primary: gold
+    secondary: red
+-
+    name: Sinkhole
+    desc: Your magic endures, and so you endure too. You understand that some things are meant to happen. You could wait to see what happens after.
+    primary: gold
+    secondary: green
+-
+    name: Tempest
+    desc: You know what you want and you know what you're willing to lose in pursuit of it. Magic is in your bones and it wants out.
+    primary: gold
+    secondary: blue
+-
+    name: Opportunity
+    desc: Change is inevitable. The world isn't going to wait for anyone. You know how to keep up and when to let it pass you by. When the dust settles, you'll find a way to come out on top.
+    primary: green
+    secondary: red
+-
+    name: Resolute
+    desc: "You care about strength. Strength of will, strength of body, strength of magic: it's all important to you, especially when it's yours. You are patient, steadfast, and unyielding."
+    primary: green
+    secondary: gold
+-
+    name: Network
+    desc: You're flexible but not breakable. You understand the power that comes with having options, and you try to always have a few. You lean into connections and rarely close a door for good.
+    primary: green
+    secondary: blue
+-
+    name: Star
+    desc: You're dazzling. You turn heads when you walk in the room, and you know how to take advantage of that. 
+    primary: blue
+    secondary: red
+-
+    name: Weaver
+    desc: You have an eye for connections and how to exploit them. You use magic to pull the strings and get what you want.
+    primary: blue
+    secondary: gold
+-
+    name: Loophole
+    desc: Some people would call you resourceful. Others would say you're sneaky. You tend to wait for a lucky break, but your magic never keeps you waiting long. 
+    primary: blue
+    secondary: green

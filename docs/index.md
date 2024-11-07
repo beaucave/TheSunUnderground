@@ -23,8 +23,6 @@ The Sun Underground is a game about reality-warping magic and fighting monsters.
 You play as an Inhabitant — a human who has been irrevocably changed by exposure to magic. This is not a good thing, but it can be made into one. 
 
 
-
-
 ## Character Creation
 > [View Identities & Character Sheet](./identities/) 
 
