@@ -1,5 +1,10 @@
-A small-scale, narrative-driven TTRPG about being cursed. Written by one person.
 ---
+layout: page
+permalink: /
+---
+
+A small-scale, narrative-driven TTRPG about being cursed. Written by one person.
+
 ## Quick Navigation:
 1. [About the Game](#about-the-game)
 2. [Character Creation](#character-creation)
@@ -14,13 +19,6 @@ A small-scale, narrative-driven TTRPG about being cursed. Written by one person.
 ## About The Game
 The Sun Underground is a game about reality-warping magic and fighting monsters. It is also a game about what happens after your entire world falls apart. 
 
-The world and rules of this game began, loosely, as a story I started in middle school. In the years since seventh grade, that story has evolved to the point of being unrecognizable from its first iteration. Some things have stayed the same, though: magic is always a ruinous thing, and there are always people who choose to delight in it anyways. 
-
-As I write this, it is November 6, 2024; the day after the United States' 2024 presidential election. I started translating the story to a game the day after my one-year-long relationship ended. 
-I think that means something. I'm not sure what.
-
-
-The world of that story
 
 You play as an Inhabitant — a human who has been irrevocably changed by exposure to magic. This is not a good thing, but it can be made into one. 
 
@@ -28,15 +26,16 @@ You play as an Inhabitant — a human who has been irrevocably changed by exposu
 
 
 ## Character Creation
-> [View Identities](./identity.md)
+> [View Identities & Character Sheet](./identity.md) 
+
 When creating an Inhabitant, the first thing to select is their Identity. Your identity informs your character’s mindset, and indicates what uses of magic come most naturally to them. Aligned with this, each identity has a primary and secondary color that mirrors their inclinations.
 
-After selecting an identity, select keywords to describe your magic and your conflict ideals. These are narrative guidelines that can inform how your character and their magic acts and reacts during gameplay. 
+After selecting an identity, you'll select keywords to describe your magic and your conflict ideals. These are narrative guidelines that can inform how your character and their magic acts and reacts during gameplay. 
 
 The last section of the character sheet contains the abilities list and the scars list. Abilities are covered in their own section, while scars are covered in the “Wounds” section. 
 
-### Abilities
-> [View full list](./ability.md)
+### *Abilities*
+> [View Abilities List](./ability.md)
 
 Each character has five abilities total. These abilities guide how you perform magic and interact with your surrounding world. 
 
@@ -46,7 +45,7 @@ The abilities available to you are limited by your Identity. You can pick up to 
 
 ## Gameplay
 
-### Dice Rolls
+### *Dice Rolls*
 
 When you make a roll, you have a target number. The closer you are to your target, the more control you have over what happens. Easier actions have more common targets. 
 
@@ -59,7 +58,7 @@ If you roll doubles, you can roll a second time and choose which value to take.
 - Success: within 1 number
     - Overwhelming Success: you roll the exact number
 
-> For example...
+**For example...**
 > - target = 6
 > - failure: sum to 1, 2, 3, 9, 10, 11, 12
 > - partial success: sum to 4, 8
@@ -70,7 +69,7 @@ A roll will be one of four types, depending on the situation: Red, Blue, Green, 
 
 Green rolls are about endurance and calculation. Blue rolls are about momentum and judgement. Red rolls are about change and violence. Gold rolls are about the inhuman: disregarding reality or doing something impossible.
 
-### Modifiers
+### *Modifiers*
 
 When you are asked for a specific roll, you can use your corresponding color score as a modifier to increase or decrease the total and be closer to the target. 
 
@@ -80,7 +79,7 @@ You cannot sum modifiers without the **Give Everything** ability.
 
 You can choose to take the value as rolled and not add modifiers.
 
-### Wounds
+### *Wounds*
 
 Over the course of a game, you’ll take damage. Damage is tracked by your three wound rings: Mundane, Demanding, and Chrysalis. Mundane wounds can be undone by taking active time to tend to them during a scene. Demanding wounds can be undone by specific abilities. Chrysalis wounds can only accrue. 
 
@@ -92,7 +91,7 @@ When you have filled your Chrysalis wounds, you immediately hatch. This begins a
 
 When your hatching scene is over, clear your wound rings and record a new scar. 
 
-### Scars
+### *Scars*
 
 Scars indicate a permanent mutation that you have undergone as a result of your magic overpowering you. They affect how your character perceives the world around them and what they’re able to do. After you hatch, you may be given a scar by your GM, or you may be the one to decide how your character is changed. 
 
