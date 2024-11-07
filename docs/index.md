@@ -16,8 +16,8 @@ You play as an Inhabitant — a human who has been irrevocably changed by exposu
 ---
 
 ## Character Creation
-
-To create an Inhabitant, select one of the Identities from the list below. Your identity informs your character’s mindset, and indicates what uses of magic come most naturally to them. Aligned with this, each identity has a primary and secondary color that mirrors their inclinations.
+> [View Identities](./identity.md)
+When creating an Inhabitant, the first thing to select is their Identity. Your identity informs your character’s mindset, and indicates what uses of magic come most naturally to them. Aligned with this, each identity has a primary and secondary color that mirrors their inclinations.
 
 After selecting an identity, select keywords to describe your magic and your conflict ideals. These are narrative guidelines that can inform how your character and their magic acts and reacts during gameplay. 
 
