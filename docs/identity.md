@@ -6,7 +6,7 @@ permalink: /identities/
 
 PLACEHOLDER: *This page will contain brief summaries of the 12 Identities, and links to a downloadable character sheet.*
 
-[Click here](site.assets.CharSheet_v1.0.0.pdf) to download a blank character sheet. 
+[Click here](https://github.com/beaucave/TheSunUnderground/blob/3f8ee3db2650f4a81f280ce85d0643c60358ad50/assets/CharSheet_v1.0.0.pdf) to download a blank character sheet. 
 
 ### *Identities*
 
