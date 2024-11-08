@@ -84,7 +84,7 @@ Most rolls that you make will have a target: the number you are trying to meet o
 
 It is important to note that The Sun Underground is not about sheer force, but also about precision. In line with this, there are two additional failure mechanics: failure by dearth and failure by excess. 
 
-**Failure by dearth** is the primary failure case. Narratively, this signifies that your attempt couldn't be completed. It makes a problem worse by taking something away (ex. your lock-pick breaks, you don’t catch the ledge, you don’t notice someone behind you). **Failure by excess** is a more special case. If you succeed on a roll by *more than 4*, you've overdone it. You've achieved your goal, but in doing so you've pushed too hard and caused a new problem to fix. These failures introduce something new to the situation (ex. you alert the guards, you hit someone too hard, you lose control of your spell).
+*Failure by dearth* is the primary failure case. Narratively, this signifies that your attempt couldn't be completed. It makes a problem worse by taking something away (ex. your lock-pick breaks, you don’t catch the ledge, you don’t notice someone behind you). *Failure by excess* is a more special case. If you succeed on a roll by *more than 4*, you've overdone it. You've achieved your goal, but in doing so you've pushed too hard and caused a new problem to fix. These failures introduce something new to the situation (ex. you alert the guards, you hit someone too hard, you lose control of your spell).
 
 **Note:** If you roll doubles, you can roll a second time and choose which value to take. You then apply modifiers as normal (described below). 
 
