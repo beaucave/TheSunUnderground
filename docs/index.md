@@ -65,7 +65,7 @@ If you roll doubles, you can roll a second time and choose which value to take.
 
 A roll will be one of four types, depending on the situation: Red, Blue, Green, or Gold. 
 
-Green rolls are about endurance and calculation. Blue rolls are about momentum and judgement. Red rolls are about change and violence. Gold rolls are about the inhuman: disregarding reality or doing something impossible.
+Green rolls are about endurance and calculation. Blue rolls are about momentum and judgment. Red rolls are about change and violence. Gold rolls are about the inhuman: disregarding reality or doing something impossible.
 
 ### *Modifiers*
 
@@ -75,7 +75,7 @@ Some curses will grant you additional modifiers. These can be noted on your char
 
 You cannot sum modifiers without the **Give Everything** ability.
 
-You can choose to take the value as rolled and not add modifiers.
+When you have no demanding wounds, you can choose to take the value as rolled and not add modifiers. This option may be disallowed in specific challenges set by The World. 
 
 ### *Wounds*
 
@@ -83,7 +83,7 @@ Over the course of a game, you’ll take damage. Damage is tracked by your three
 
 If you fill a wound ring, any additional damage is passed on to the next highest ring. If you have taken all three Mundane wounds and would take a fourth, you take a new Demanding wound. If you have taken both Demanding wounds and would take a third, you take a Chrysalis wound.
 
-Demanding wounds are, generally, incapacitating. If you receive a demanding wound, you 
+Demanding wounds reduce your character's ability. When you've taken 1 demanding wound, you cannot apply modifiers to rolls. [there will be more here later <3]
 
 When you have filled your Chrysalis wounds, you immediately hatch. This begins a new scene. As you play this out, let loose. Act on your ideals, especially the selfish ones. You are more magic than person in this moment; describe how that changes you and what it looks like. Your primary color score is available as an additional modifier to all rolls you make, and you may sum two modifiers from your pool together. 
 
