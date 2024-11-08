@@ -8,7 +8,7 @@ A small-scale, narrative-driven TTRPG about being cursed. Written by one person.
 ## Quick Navigation:
 1. [About the Game](#about-the-game)
 2. [Character Creation](#character-creation)
-    - [Abilties](#abilities)
+    - [Abilities](#abilities)
 3. [Gameplay](#gameplay)
     - [Dice Rolls](#dice-rolls)
     - [Modifiers](#modifiers)
