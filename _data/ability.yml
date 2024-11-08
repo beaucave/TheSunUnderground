@@ -12,8 +12,16 @@
   desc: When you attack without using magic, you have an additional modifier of 3.
   color: all
 -
-  name: Give Everything
-  desc: You use the total sum of your modifier pool as a modifier instead of selecting one. This sum must include every modifier in the pool.
+  name: Self-Control
+  desc: You can choose to subtract your lowest die value when making a roll. You then add this value to your modifier pool as a Forward modifier.
+  color: all
+-
+  name: Self-Control (2)
+  desc: You can choose to subtract your lowest die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
+  color: all
+-
+  name: Self-Control (3)
+  desc: You can choose to subtract one die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
   color: all
 -
   name: The Indomitable Human Spirit is Hanging on by a Thread

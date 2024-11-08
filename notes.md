@@ -1,0 +1,42 @@
+inspirations
+- oz
+- monsterhearts: darkest self
+- wildsea: milestones & milestone projects
+- absurdia: bonds, friends/rivals
+- absurdia: questions/agendas
+ - questions and agendas -> 
+- kids on brooms: excess/overthrow mechanics
+- candela obscura: dice pool mechanics
+
+- questions are like... the starting point for the character arc. it's the conflict, it's the... what are you trying to get out of this? non-identity specific
+- questions: past/present, future
+    - past/present:
+        - describe your first encounter with magic. 
+        - describe your awakening. why was this the worst day of your life?
+        - 
+    - future:
+        - what are you leaving behind?
+        - what are you hiding from? 
+        - what is getting worse?
+        - what are you fighting?
+
+- questions need to be re-answered upon hatching/scarring/completing an agenda/finishing a chapter
+- 
+- horizontal progression: instead of trying to minmax optimize a build, you're trying to expand a build; it's not about making the stats go up, it's unlocking a new skill tree branch
+    - what is unlocking a new skill tree branch when you don't modify your existing stats?
+    - stella doloris tiers of abilities
+        - three tiers per ability. 1, 2, 3.
+        - each ability gives you an additional modifier for a specific roll situation (roll type and roll situation -- different things. official vocab?). 
+        - ability categories: general, colorful (rgba), special
+            - general: obvious. add some weapons ones?
+            - special: The Indomitable Human Spirit, Sanctuary, 
+            - attributes of an ability: name, tier 1 description, tier 2 description, tier 3 description, category
+
+- You always roll at least 1d6. Additional dice are determined by your stats; if you have a Red score of 2, you roll two more dice (3d6 in total) when making Red rolls. Add or subtract modifiers sticks around; instead of changing targets it changes the modifiers.
+    - tier 1: forward modifier, modifier of 1, 
+    - tier 2: reserve, modifier 2, 
+    - tier 3: backburner, modifier of 3, 
+- 
+- failure by excess: roll more than 5 over the DC
+- fail: roll under the DC
+- failure by deficit: roll more than 5 under the DC
