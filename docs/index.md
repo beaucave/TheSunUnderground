@@ -30,13 +30,11 @@ The Sun Underground intentionally attempts to be setting-agnostic. This system i
 However, there are some things that should remain consistent in any TSU game. They are addressed here.
 
 ### Magic
-Magic in The Sun Underground is categorized loosely by color: **Red**, **Green**, **Blue**, or **Gold**. Green magic is about endurance, certainty and calculation. Blue magic is about momentum and judgement. Red magic is about change and violence. Gold magic is about the inhuman: disregarding reality or doing something impossible.
+Magic is unknown to the wider world. The average person will know nothing about magic, and will not believe in magic if they are told about it.
 
-The crux of magic in this world is twofold: it wants to live and it wants to eat. These are not wants in the way that a human would understand them. Magic is not sentient. It does not have motivation; it only has behavior. 
+This is not an inherent ability. It is transmitted. A person survives an encounter with magic (most commonly with a Shade), and is left with a dormant curse. This dormancy will last for a moment or for years, depending on how their day goes. 
 
-Magic is not an inherent ability. It is transmitted. A person survives an encounter with a Shade, and is left with a dormant curse. This dormancy last for a moment, or for years, depending on how their day goes.
-
-Magic invariably awakens on the worst day of someone’s life. The resulting explosion is devastating, traumatic, and very often lethal to either the caster or anyone in their vicinity. 
+The dormant period invariably ends on the worst day of someone’s life, known as their Awakening. The resulting explosion of power is devastating, traumatic, and very often lethal to the caster and anyone in their vicinity. 
 
 Anyone (un)lucky enough to survive their awakening is changed forever. Once they were human, and now they are not. There is no way back.
 
@@ -77,7 +75,7 @@ The abilities available to you are limited by your Identity. You can pick up to 
 ### *Dice Rolls*
 Dice rolls in The Sun Underground ensure that everything stays a little unpredictable. The exact timings and contexts for rolls are up to the World, but as a rule of thumb: when you attempt something that could fail, you roll for it. 
 
-A roll will almost always be one of the four colors: Red, Gold, Green, or Blue. Your color scores on your character sheet indicate how many dice you roll for that particular type.
+A roll will almost always be one of the four colors: **Red**, **Green**, **Blue**, or **Gold**. Green rolls are about endurance and confidence. Blue rolls are about momentum and judgement. Red rolls are about change and violence. Gold rolls are about the inhuman: disregarding reality or doing something impossible. Your color scores on your character sheet indicate how many dice you roll for that particular type.
 > For example: if you have a Red score of 3, you will roll 3d6 when making a Red roll.
 
 Most rolls that you make will have a target: the number you are trying to meet or beat. Easier actions usually have lower targets. Success on a roll correlates generally to proximity to the target; the closer your final value is, the more control you have over what happens. If your final sum is less than the target, it's considered a failure; you do not achieve what you set out to do. 
@@ -103,11 +101,13 @@ Note: by default, you can choose to take the value as rolled and not add modifie
 
 ### *Wounds*
 
-Over the course of a game, you’ll take damage. Damage is tracked by your three wound rings: Mundane, Demanding, and Chrysalis. Mundane wounds can be undone by taking active time to tend to them during a scene. Demanding wounds can be undone by specific abilities. Chrysalis wounds can only accrue. 
+Over the course of a game, you’ll take damage. Damage is tracked by your three wound rings: Mundane, Demanding, and Chrysalis. Mundane wounds can be undone by taking active time to tend to them during a scene. Demanding wounds, however, can be undone by specific abilities. Chrysalis wounds can only accrue. 
 
 If you fill a wound ring, any additional damage is passed on to the next highest ring. If you have taken all three Mundane wounds and would take a fourth, you take a new Demanding wound. If you have taken both Demanding wounds and would take a third, you take a Chrysalis wound.
 
-Demanding wounds are, generally, incapacitating. If you receive a demanding wound, you 
+Demanding wounds mechanically reduce your character's ability. When you've taken 1 demanding wound, you cannot apply modifiers to rolls. When you've taken 2 demanding wounds, you drop the lowest value of each dice roll (excluding the rolls of only one die).
+
+In a narrative sense, Demanding wounds are incapacitating.
 
 When you have filled your Chrysalis wounds, you immediately hatch. This begins a new scene. As you play this out, let loose. Act on your ideals, especially the selfish ones. You are more magic than person in this moment; describe how that changes you and what it looks like. Your primary color score is available as an additional modifier to all rolls you make, and you may sum two modifiers from your pool together. 
 
