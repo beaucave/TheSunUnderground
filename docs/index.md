@@ -48,7 +48,7 @@ Shades are also the primary source of curses. In the vast majority of cases, Inh
 It is worth noting that there is no generalization for Shades or their Domains. Two Shades may happen to be similar, but none are identical. This is to say: get creative! A Shade could be a robotic consciousness that exists in a domain of endless cables and spare parts accessed by hitting the wrong button. A Shade could also be a starving animal whose domain is woven into a local forest, where visitors to the forest slip and out of reality as they follow a trail. 
 
 ### Lack of Benefit
-Magic in The Sun Underground is not a good thing. It is not something that creates good; it does not engender community, or kindness, or progress. Magic is a thing to be survived but not fully escaped. 
+Magic in The Sun Underground is not a good thing. It is not something that creates good; it does not engender community, or kindness, or progress. Magic is a thing to be survived, but not fully escaped. 
 
 
 
