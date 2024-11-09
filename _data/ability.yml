@@ -8,20 +8,20 @@
   name: Logic in a Dream
   desc: If you use logic from the mundane world to solve a magical problem, you have an additional modifier of 2.
   color: all
-  tags: no magic
+  tags: not
 -
   name: Unarmed
   desc: When you attack without using magic, you have an additional modifier of 3.
   color: all
-  tags: no magic
+  tags: not
 
 -
   name: Self-Control
   desc: You can choose to subtract your lowest die value when making a roll. You then add this value to your modifier pool as a Forward modifier.
   desc2: You can choose to subtract your lowest die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
-  desc3: You can choose to subtract one die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
+  desc3: You can choose to subtract any one die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
   color: all
-  tags: lower
+  tags: not, modifier, dice, pool
 -
   name: The Indomitable Human Spirit is Hanging on by a Thread
   desc: When you max out your Chrysalis ring, you can choose (within that session) when to hatch. If you do not declare a time within the session, you start the next session by hatching.

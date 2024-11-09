@@ -3,7 +3,7 @@ layout: page
 title: Abilities
 
 permalink: /abilities/
-nav_include : yes
+nav_include: yes
 nav_order : 3
 ---
 <head>
@@ -29,14 +29,7 @@ Click the name of an ability to view its advancement options.
   {% if ability.color != "ascendant"%}
     <tr>
       <td>
-        <!-- {{ ability.name }} -->
-          <button id="myBtn">{{ ability.name }}</button>
-          <div id="myModal" class="modal">
-            <div class="modal-content">
-              <span class="close"></span>
-              <p>Some text in the Modal..</p>
-            </div>
-          </div>
+        <button id="modal-button">{{ ability.name }}</button>
       </td>
       <td>{{ ability.color }}</td>
       <td>{{ ability.desc }}</td>
