@@ -1,11 +1,13 @@
 ---
-layout: home
-permalink: /
+layout: page
+permalink: /manual
 ---
+<head>
+  <script type="text/javascript" src="./live/js/index.js"></script>
+  <link rel="stylesheet" href="../assets/css/main.css">
+</head>
 
-A small-scale, narrative-driven TTRPG about being cursed. Written by one person.
-
-## Quick Navigation:
+## Contents:
 1. [About the Game](#about-the-game)
     - [Magic](#magic)
 2. [Character Creation](#character-creation)

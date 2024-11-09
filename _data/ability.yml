@@ -14,14 +14,8 @@
 -
   name: Self-Control
   desc: You can choose to subtract your lowest die value when making a roll. You then add this value to your modifier pool as a Forward modifier.
-  color: all
--
-  name: Self-Control (2)
-  desc: You can choose to subtract your lowest die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
-  color: all
--
-  name: Self-Control (3)
-  desc: You can choose to subtract one die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
+  desc2: You can choose to subtract your lowest die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
+  desc3: You can choose to subtract one die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
   color: all
 -
   name: The Indomitable Human Spirit is Hanging on by a Thread
