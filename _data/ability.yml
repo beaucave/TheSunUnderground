@@ -3,20 +3,25 @@
   name: Gut Feeling
   desc: You have good instincts. When you encounter a new character or location, make a Blue check to notice hidden details.
   color: all
+  tags: notice, details
 -
   name: Logic in a Dream
   desc: If you use logic from the mundane world to solve a magical problem, you have an additional modifier of 2.
   color: all
+  tags: no magic
 -
   name: Unarmed
   desc: When you attack without using magic, you have an additional modifier of 3.
   color: all
+  tags: no magic
+
 -
   name: Self-Control
   desc: You can choose to subtract your lowest die value when making a roll. You then add this value to your modifier pool as a Forward modifier.
   desc2: You can choose to subtract your lowest die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
   desc3: You can choose to subtract one die value when making a roll. You then add this value to your modifier pool as a Reserve modifier.
   color: all
+  tags: lower
 -
   name: The Indomitable Human Spirit is Hanging on by a Thread
   desc: When you max out your Chrysalis ring, you can choose (within that session) when to hatch. If you do not declare a time within the session, you start the next session by hatching.
@@ -25,6 +30,7 @@
   name: First-Aid
   desc: You can attempt to heal Demanding wounds. Make a Red roll. The target value is 11 minus your red score.
   color: all
+  tags: heal, healing
 -
   name: Exoskeleton
   desc: When any of your damage rings are full, you can choose one truth of your character to eclipse the rest. You are no longer yourself. For the rest of the session, act as that animate truth. When the session ends, reset all wound rings and record a new scar.
@@ -65,6 +71,7 @@
   name: Extended Reach
   desc: "Your magic can create changes, and sometimes it can undo them. Make a Red roll with a target of 11. If you succeed, you can remove a wound? Note: If you also have the Morph ability, your difficulty is 9."
   color: red
+  tags: heal, healing
 -
   name: Brutalize
   desc: Make a Red roll. If you succeed, you turn a combatant's mundane wound into a demanding wound. Reduce their mundane wounds by 1 (-1) and increase their demanding wounds by 1 (+1). If you critically succeed, inflict both a Chrysalis wound and a demanding wound.
@@ -89,6 +96,7 @@
   name: Shared Burden
   desc: You can attempt to reduce and share an ally's wounds. Make a Blue roll. Your target is set by your ally making a Gold roll. If you succeed, you each take 1 Mundane wound and they remove 1 Demanding wound. If you critically succeed, only remove 1 Demanding wound.
   color: blue
+  tags: heal, healing
 -
   name: Remember
   desc: Sometimes you remember what it was like to be human. If you make a roll that does not involve magic (or actively avoids or ignores it), you can use your Gold score as an additional modifier.
@@ -105,6 +113,7 @@
   name: Seal The Edge
   desc: Make a Gold roll to heal yourself or another character. If you succeed, undo 1 demanding wound.
   color: gold
+  tags: heal, healing
 -
   name: Touch Without Touch
   desc: When you make a Gold roll to magically affect an object's relationship to physics, you have a reduced difficulty level.
@@ -125,6 +134,7 @@
   name: Stay Upright
   desc: When you receive a wound, make a Green roll. If you succeed, disregard that wound and do not mark it. If you partially succeed, the wound is downgraded to mundane (regardless of its original severity).
   color: green
+  tags: heal, healing
 -
   name: Overgrown Ivy
   desc: When you attempt to cast magic, your Green score is an additional modifier in your pool.

@@ -1,52 +1,47 @@
 ---
 layout: page
 title: Abilities
+
 permalink: /abilities/
+nav_include : yes
+nav_order : 3
 ---
+<head>
+  <script type="text/javascript" src="../live/js/index.js"></script>
+  <link rel="stylesheet" href="../assets/css/main.css">
+</head>
 
 TODO: *This page will contain a list of all character abilities that can be sorted and filtered.*
 
-<!-- <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for abilities.."> -->
+Click the name of an ability to view its advancement options. 
 
-<table id="myTable">
+<input type="text" id="myInput" onkeyup="searchTable('abilityTable')" placeholder="Search abilities...">
+
+
+<table id="abilityTable">
   <tr class="header">
     <th>Name</th>
     <th>Color</th>
     <th>Description</th>
-    <!-- <th style="width:60%;">Name</th>
-    <th style="width:40%;">Color</th> -->
+    <th style="display:none;">Tags</th>
   </tr>
   {% for ability in site.data.ability %}
   {% if ability.color != "ascendant"%}
     <tr>
-      <td>{{ ability.name }}</td>
+      <td>
+        <!-- {{ ability.name }} -->
+          <button id="myBtn">{{ ability.name }}</button>
+          <div id="myModal" class="modal">
+            <div class="modal-content">
+              <span class="close"></span>
+              <p>Some text in the Modal..</p>
+            </div>
+          </div>
+      </td>
       <td>{{ ability.color }}</td>
       <td>{{ ability.desc }}</td>
+      <td style="display:none;">{{ ability.tags }}</td>
     </tr>
   {% endif %}
   {% endfor %}
 </table>
-
-<script>
-function myFunction() {
-  // Declare variables
-  var input, filter, table, tr, td, i, txtValue;
-  input = document.getElementById("myInput");
-  filter = input.value.toUpperCase();
-  table = document.getElementById("myTable");
-  tr = table.getElementsByTagName("tr");
-
-  // Loop through all table rows, and hide those who don't match the search query
-  for (i = 0; i < tr.length; i++) {
-    td = tr[i].getElementsByTagName("td")[0];
-    if (td) {
-      txtValue = td.textContent || td.innerText;
-      if (txtValue.toUpperCase().indexOf(filter) > -1) {
-        tr[i].style.display = "";
-      } else {
-        tr[i].style.display = "none";
-      }
-    }
-  }
-}
-</script>

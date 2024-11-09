@@ -1,12 +1,19 @@
 ---
 layout: page
 title: Identities
+
 permalink: /identities/
+nav_include : yes
+nav_order : 2
 ---
+<head>
+  <script type="text/javascript" src="../live/js/index.js"></script>
+  <link rel="stylesheet" href="../assets/css/main.css">
+</head>
 
 PLACEHOLDER: *This page will contain brief summaries of the 12 Identities, and links to a downloadable character sheet.*
 
-[Click here](https://github.com/beaucave/TheSunUnderground/blob/3f8ee3db2650f4a81f280ce85d0643c60358ad50/assets/CharSheet_v1.0.0.pdf) to download a blank character sheet. 
+<a href="../assets/CharSheet_v1.0.0.pdf" target="_blank">Click here</a> to download a blank character sheet. 
 
 ### *Identities*
 
