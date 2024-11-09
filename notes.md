@@ -32,11 +32,7 @@ inspirations
             - special: The Indomitable Human Spirit, Sanctuary, 
             - attributes of an ability: name, tier 1 description, tier 2 description, tier 3 description, category
 
-- You always roll at least 1d6. Additional dice are determined by your stats; if you have a Red score of 2, you roll two more dice (3d6 in total) when making Red rolls. Add or subtract modifiers sticks around; instead of changing targets it changes the modifiers.
-    - tier 1: forward modifier, modifier of 1, 
-    - tier 2: reserve, modifier 2, 
-    - tier 3: backburner, modifier of 3, 
-- 
-- failure by excess: roll more than 5 over the DC
-- fail: roll under the DC
-- failure by deficit: roll more than 5 under the DC
+- dark mode please
+    - fun color modes: red, blue, green, gold
+
+- sql -- sqlserver, mysql
