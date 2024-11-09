@@ -11,11 +11,11 @@ nav_order : 2
   <link rel="stylesheet" href="../assets/css/main.css">
 </head>
 
+# Identities
+
 PLACEHOLDER: *This page will contain brief summaries of the 12 Identities, and links to a downloadable character sheet.*
 
 <a href="../assets/CharSheet_v1.0.0.pdf" target="_blank">Click here</a> to download a blank character sheet. 
-
-### *Identities*
 
 <!-- <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for abilities.."> -->
 

@@ -11,6 +11,8 @@ nav_order : 3
   <link rel="stylesheet" href="../assets/css/main.css">
 </head>
 
+# Abilities
+
 TODO: *This page will contain a list of all character abilities that can be sorted and filtered.*
 
 Click the name of an ability to view its advancement options. 
